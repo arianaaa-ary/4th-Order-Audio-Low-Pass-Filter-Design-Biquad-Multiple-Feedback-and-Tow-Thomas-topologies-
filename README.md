@@ -1,0 +1,2 @@
+# 4th-Order-Audio-Low-Pass-Filter-Design-Biquad-Multiple-Feedback-and-Tow-Thomas-topologies-
+4th-order Active Audio LPF (500Hz) | Bessel Approximation. Designed &amp; simulated in LTspice/Proteus. Architecture: Cascaded Biquad Multiple-Feedback &amp; Tow-Thomas cells for minimal phase distortion. Verified via frequency response analysis and real-world audio processing of a track to isolate low frequencies.
